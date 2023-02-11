@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/little-lemon-web-app/static/css/main.76c9d2da.css",
-    "main.js": "/little-lemon-web-app/static/js/main.902cf5dc.js",
-    "static/js/787.98f071ee.chunk.js": "/little-lemon-web-app/static/js/787.98f071ee.chunk.js",
-    "static/media/mario-and-adrian.jpg": "/little-lemon-web-app/static/media/mario-and-adrian.7f44c6d6e341a27d14b3.jpg",
-    "static/media/restaurant-chef-b.jpg": "/little-lemon-web-app/static/media/restaurant-chef-b.4b4c2d26b514db32e8fc.jpg",
-    "static/media/greek-salad.jpg": "/little-lemon-web-app/static/media/greek-salad.bed423a1fab5b210e347.jpg",
-    "static/media/restauranfood.jpg": "/little-lemon-web-app/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/bruchetta.jpg": "/little-lemon-web-app/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
-    "static/media/restaurant.jpg": "/little-lemon-web-app/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
-    "static/media/star-rating-icon.jpg": "/little-lemon-web-app/static/media/star-rating-icon.9474d9da53e4edb0c8b5.jpg",
-    "static/media/scooter-icon.jpg": "/little-lemon-web-app/static/media/scooter-icon.b8e9653208f2fe364756.jpg",
-    "static/media/logo.svg": "/little-lemon-web-app/static/media/logo.f72c913c48c5334f78f2c336ec36f22b.svg",
-    "static/media/reservation-confirmed.png": "/little-lemon-web-app/static/media/reservation-confirmed.fb34f315b39069bc13fc.png",
-    "static/media/kane.jpg": "/little-lemon-web-app/static/media/kane.5d1a0dbb55903671193e.jpg",
-    "static/media/naomi.jpg": "/little-lemon-web-app/static/media/naomi.711ed921dcffc01cf0d0.jpg",
-    "static/media/michael.jpg": "/little-lemon-web-app/static/media/michael.23290521225699a870bd.jpg",
-    "index.html": "/little-lemon-web-app/index.html",
-    "main.76c9d2da.css.map": "/little-lemon-web-app/static/css/main.76c9d2da.css.map",
-    "main.902cf5dc.js.map": "/little-lemon-web-app/static/js/main.902cf5dc.js.map",
-    "787.98f071ee.chunk.js.map": "/little-lemon-web-app/static/js/787.98f071ee.chunk.js.map"
+    "main.css": "/static/css/main.76c9d2da.css",
+    "main.js": "/static/js/main.a3c5dedb.js",
+    "static/js/787.98f071ee.chunk.js": "/static/js/787.98f071ee.chunk.js",
+    "static/media/mario-and-adrian.jpg": "/static/media/mario-and-adrian.7f44c6d6e341a27d14b3.jpg",
+    "static/media/restaurant-chef-b.jpg": "/static/media/restaurant-chef-b.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek-salad.jpg": "/static/media/greek-salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/bruchetta.jpg": "/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/star-rating-icon.jpg": "/static/media/star-rating-icon.9474d9da53e4edb0c8b5.jpg",
+    "static/media/scooter-icon.jpg": "/static/media/scooter-icon.b8e9653208f2fe364756.jpg",
+    "static/media/logo.svg": "/static/media/logo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/reservation-confirmed.png": "/static/media/reservation-confirmed.fb34f315b39069bc13fc.png",
+    "static/media/kane.jpg": "/static/media/kane.5d1a0dbb55903671193e.jpg",
+    "static/media/naomi.jpg": "/static/media/naomi.711ed921dcffc01cf0d0.jpg",
+    "static/media/michael.jpg": "/static/media/michael.23290521225699a870bd.jpg",
+    "index.html": "/index.html",
+    "main.76c9d2da.css.map": "/static/css/main.76c9d2da.css.map",
+    "main.a3c5dedb.js.map": "/static/js/main.a3c5dedb.js.map",
+    "787.98f071ee.chunk.js.map": "/static/js/787.98f071ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76c9d2da.css",
-    "static/js/main.902cf5dc.js"
+    "static/js/main.a3c5dedb.js"
   ]
 }
